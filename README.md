@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TH5000
 - 👀 I’m interested in software development & Tennis
-- 🌱 I’m currently learning C#, TypeSripte, JavaScript, HTML, CSS
+- 🌱 I’m currently learning C#, TypeScript, JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @email hiltom13@gmail.com
 
